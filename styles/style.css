@@ -95,13 +95,18 @@ section{
         width: 100%;
         height: 100%;
     }
+    .logo-img{
+        width: 50px;
+    }
     .banner-title{
         font-size: 25px;
         padding-bottom: 5px;
+        color: white;
     }
     .banner-para{
         font-size: 13px;
         padding: 10px 20px 20px;
+        color: white;
         /* margin: 10px; */
     }
 }

@@ -60,119 +60,122 @@ document.getElementById("call-1").addEventListener("click", function (e) {
   e.preventDefault();
   let callCount = document.getElementById("coin");
   let current = parseInt(callCount.innerText);
-  callCount.innerText = current - 20;
- 
   if (current < 20) {
     alert("not coin");
-     return;
+    return;
   } else {
     alert("calling National Emergency Number 999.. ");
-    
   }
+  callCount.innerText = current - 20;
  
-
   
-});
+ });
 
 
 document.getElementById("call-2").addEventListener("click", function (e) {
   e.preventDefault();
   let callCount = document.getElementById("coin");
   let current = parseInt(callCount.innerText);
+  if (current < 20) {
+    alert("not coin");
+    return;
+  } else {
+    alert("calling National Emergency Number 999.. ");
+  }
   callCount.innerText = current - 20;
-    if (current < 20) {
-      alert("not coin");
-      return;
-    } else {
-      alert("calling National Emergency Number 999.. ");
-    }
+   
 });
 
 document.getElementById("call-3").addEventListener("click", function (e) {
   e.preventDefault();
   let callCount = document.getElementById("coin");
   let current = parseInt(callCount.innerText);
+  if (current < 20) {
+    alert("not coin");
+    return;
+  } else {
+    alert("calling National Emergency Number 999.. ");
+  }
   callCount.innerText = current - 20;
-    if (current < 20) {
-      alert("not coin");
-      return;
-    } else {
-      alert("calling National Emergency Number 999.. ");
-    }
+   
 });
 document.getElementById("call-4").addEventListener("click", function (e) {
   e.preventDefault();
   let callCount = document.getElementById("coin");
   let current = parseInt(callCount.innerText);
+  if (current < 20) {
+    alert("not coin");
+    return;
+  } else {
+    alert("calling National Emergency Number 999.. ");
+  }
   callCount.innerText = current - 20;
-    if (current < 20) {
-      alert("not coin");
-      return;
-    } else {
-      alert("calling National Emergency Number 999.. ");
-    }
+   
 });
 document.getElementById("call-5").addEventListener("click", function (e) {
   e.preventDefault();
   let callCount = document.getElementById("coin");
   let current = parseInt(callCount.innerText);
+  if (current < 20) {
+    alert("not coin");
+    return;
+  } else {
+    alert("calling National Emergency Number 999.. ");
+  }
   callCount.innerText = current - 20;
-     if (current < 20) {
-       alert("not coin");
-       return;
-     } else {
-       alert("calling National Emergency Number 999.. ");
-     }
+     
 });
 document.getElementById("call-6").addEventListener("click", function (e) {
   e.preventDefault();
   let callCount = document.getElementById("coin");
   let current = parseInt(callCount.innerText);
-  callCount.innerText = current - 20;
-     if (current < 20) {
+  if (current < 20) {
     alert("not coin");
-     return;
+    return;
   } else {
     alert("calling National Emergency Number 999.. ");
-    
   }
-   
+  callCount.innerText = current - 20;
+        
 });
 document.getElementById("call-7").addEventListener("click", function (e) {
   e.preventDefault();
   let callCount = document.getElementById("coin");
   let current = parseInt(callCount.innerText);
+  if (current < 20) {
+    alert("not coin");
+    return;
+  } else {
+    alert("calling National Emergency Number 999.. ");
+  }
   callCount.innerText = current - 20;
-     if (current < 20) {
-       alert("not coin");
-       return;
-     } else {
-       alert("calling National Emergency Number 999.. ");
-     }
+     
 });
 document.getElementById("call-8").addEventListener("click", function (e) {
   e.preventDefault();
   let callCount = document.getElementById("coin");
   let current = parseInt(callCount.innerText);
+  if (current < 20) {
+    alert("not coin");
+    return;
+  } else {
+    alert("calling National Emergency Number 999.. ");
+  }
   callCount.innerText = current - 20;
-     if (current < 20) {
-       alert("not coin");
-       return;
-     } else {
-       alert("calling National Emergency Number 999.. ");
-     }
+     
 });
 document.getElementById("call-9").addEventListener("click", function (e) {
   e.preventDefault();
   let callCount = document.getElementById("coin");
   let current = parseInt(callCount.innerText);
+  if (current < 20) {
+    alert("not coin");
+    return;
+  } else {
+    alert("calling National Emergency Number 999.. ");
+  }
   callCount.innerText = current - 20;
-     if (current < 20) {
-       alert("not coin");
-       return;
-     } else {
-       alert("calling National Emergency Number 999.. ");
-     }
+     
 });
 
 // copy section
